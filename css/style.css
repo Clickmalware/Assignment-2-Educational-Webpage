@@ -1,10 +1,11 @@
 h1 {
   font-size: 50px;
+      font-family:hubot-sans, sans-serif;
   text-align: center;
     background-color: #3B4CCA;
     padding: 20px;
     border-radius: 8px;
-    margin: 20px;
+    margin: auto;
     font-family: 'Arial', sans-serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
@@ -12,19 +13,20 @@ h1 {
 }
 header {
     background-color: #FF0000;
-
+        font-family:hubot-sans, sans-serif;
     text-align: center;
     padding: 10px;
     border-radius: 8px;
-    margin: 20px;
+    margin: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 
 }
 main {
     background-color: #3B4CCA;
+    font-family:hubot-sans, sans-serif;
     text-align: left;
-    margin: 20px;
+    margin: auto;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -38,13 +40,25 @@ h3 {
 body {
   background-color: #f2f4f7;
 }
-
-* {
-  font-family: sans-serif;
+section {
+        font-family:hubot-sans, sans-serif;
+    margin-bottom: 20px;
+    background-color: #FF0000;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #FFDE00;
 }
+
 img {
   width: 50%;
   border-radius: 8px;
   display: block;
   margin: auto;
+  background-color: #3B4CCA;
+    padding: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
 }
