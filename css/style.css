@@ -9,7 +9,6 @@ h1 {
     font-family: 'Arial', sans-serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
-
 }
 header {
     background-color: #FF0000;
@@ -20,7 +19,6 @@ header {
     margin: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
-
 }
 main {
     background-color: #3B4CCA;
@@ -32,14 +30,10 @@ main {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
-
-h3 {
-  font-size: 30px;
-  text-align: center;
-}
 body {
   background-color: #f2f4f7;
 }
+
 section {
         font-family:hubot-sans, sans-serif;
     margin-bottom: 20px;
@@ -51,7 +45,6 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
-
 img {
   width: 50%;
   border-radius: 8px;
@@ -61,4 +54,48 @@ img {
     padding: 100px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+#big {
+  font-size: 40px;
+}
+#bold {
+  font-weight: bold;
+}
+.flex-container {
+  display: flex;
+   flex-direction: column;
+}
+
+.box {
+  background-color: lightgray;
+  padding: 20px;
+  margin: 10px;
+    position : center;
+    font-size: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0,
+    0, 0.1);
+    background-color: #FF0000;
+    color: #FFDE00;
+   
+
+
+}
+section {
+        font-family:hubot-sans, sans-serif;
+    margin-bottom: 20px;
+    background-color: #FF0000;
+    text-align: left;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #FFDE00;
+    
 }
