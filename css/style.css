@@ -1,5 +1,5 @@
 h1 {
-  font-size: 50px;
+  font-size: 100px;
       font-family:hubot-sans, sans-serif;
   text-align: center;
     background-color: #3B4CCA;
@@ -10,13 +10,15 @@ h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
-header {
-    background-color: #FF0000;
-        font-family:hubot-sans, sans-serif;
-    text-align: center;
+h2 {
+  font-size: 30px;
+      font-family:hubot-sans, sans-serif;
+  text-align: center;
+    background-color: #3B4CCA;
     padding: 10px;
     border-radius: 8px;
     margin: auto;
+    font-family: 'Arial', sans-serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
@@ -31,20 +33,13 @@ main {
     color: #FFDE00;
 }
 body {
-  background-color: #f2f4f7;
+  background-color: #FF0000;
+  font-family:hubot-sans, sans-serif;
+  margin: 20px;
+  padding: 20px;
+  
 }
 
-section {
-        font-family:hubot-sans, sans-serif;
-    margin-bottom: 20px;
-    background-color: #FF0000;
-    text-align: center;
-    margin: auto;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    color: #FFDE00;
-}
 img {
   width: 50%;
   border-radius: 8px;
@@ -87,15 +82,13 @@ img {
 
 
 }
-section {
-        font-family:hubot-sans, sans-serif;
-    margin-bottom: 20px;
-    background-color: #FF0000;
-    text-align: left;
-    margin: auto;
-    padding: 20px;
+nav {
+    background-color: #3B4CCA;
+    font-family:hubot-sans, sans-serif;
+    text-align: center;
+    padding: 10px;
     border-radius: 8px;
+    margin: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
-    
 }
