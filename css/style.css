@@ -60,6 +60,7 @@ footer {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
+
 img {
   width: 50%;
   border-radius: 8px;
@@ -80,10 +81,10 @@ img {
 #big {
   font-size: 40px;
 }
-
 #bold {
   font-weight: bold;
 }
+
 .flex-container {
   display: flex;
    flex-direction: column;
@@ -105,7 +106,7 @@ img {
 nav {
     background-color: #6bc219;
     font-family:hubot-sans, sans-serif;
-    text-align: center;
+    text-align: left;
     padding: 10px;
     border-radius: 8px;
     margin: auto;
