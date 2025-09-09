@@ -48,8 +48,18 @@ body {
   border-radius: 8px;
   background-color: #3B4CCA;
 }
-}
 
+}
+footer {
+    background-color: #6bc219;
+    font-family:hubot-sans, sans-serif;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #FFDE00;
+}
 img {
   width: 50%;
   border-radius: 8px;
