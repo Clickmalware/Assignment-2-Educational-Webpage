@@ -2,7 +2,7 @@ h1 {
   font-size: 100px;
       font-family:hubot-sans, sans-serif;
   text-align: center;
-    background-color: #3B4CCA;
+    background-color: #6bc219;
     padding: 20px;
     border-radius: 8px;
     margin: auto;
@@ -10,11 +10,12 @@ h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
+
 h2 {
   font-size: 30px;
       font-family:hubot-sans, sans-serif;
   text-align: center;
-    background-color: #3B4CCA;
+    background-color: #6bc219;
     padding: 10px;
     border-radius: 8px;
     margin: auto;
@@ -22,8 +23,9 @@ h2 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
+
 main {
-    background-color: #3B4CCA;
+    background-color: #6bc219;
     font-family:hubot-sans, sans-serif;
     text-align: left;
     margin: auto;
@@ -32,12 +34,20 @@ main {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
+
+@media (max-width: 600px) {
 body {
   background-color: #FF0000;
   font-family:hubot-sans, sans-serif;
   margin: 20px;
   padding: 20px;
-  
+  color: #FFDE00;
+  font-size: 16px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #3B4CCA;
+}
 }
 
 img {
@@ -50,6 +60,7 @@ img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
 }
+
 .green {
   color: green;
 }
@@ -59,6 +70,7 @@ img {
 #big {
   font-size: 40px;
 }
+
 #bold {
   font-weight: bold;
 }
@@ -77,13 +89,11 @@ img {
     box-shadow: 0 4px 8px rgba(0, 0,
     0, 0.1);
     background-color: #FF0000;
-    color: #FFDE00;
-   
-
-
+    color: #050000;
 }
+
 nav {
-    background-color: #3B4CCA;
+    background-color: #6bc219;
     font-family:hubot-sans, sans-serif;
     text-align: center;
     padding: 10px;
@@ -92,3 +102,4 @@ nav {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: #FFDE00;
 }
+
